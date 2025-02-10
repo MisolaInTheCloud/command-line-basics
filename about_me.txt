@@ -1,1 +1,5 @@
-I am Kemisola with the online Presence name, MisolaInTheCloud. I am familiar with AWS services and currently motivated to learn Node.js because it will allow me to build scalable network applications quickly. 
+I am Kemisola with the online Presence name, MisolaInTheCloud. I recently passed my Cloud Practitioner Exam and Solutions Architect. I have built over 20 Cloud engineering projects with AWS services. Here is a link to my projects: https://dev.to/misolainthecloud. 
+
+I am motivated to learn Node.js because it will allow me to quickly build scalable network applications. 
+Its event-driven, non-blocking I/O model makes it perfect for handling real-time applications efficiently.
+
