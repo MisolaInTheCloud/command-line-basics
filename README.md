@@ -1,3 +1,5 @@
+Here are the commands I used for this project and their outputs. 
+
 mkdir -p projects/week1 projects/week2   # Create a directory structure with subfolders
 touch projects/week1/hello.txt           # Create an empty file named hello.txt
 cp projects/week1/hello.txt projects/week2/hello_copy.txt  # Copy hello.txt to week2 and rename it
